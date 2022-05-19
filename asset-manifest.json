@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SignUpPage/static/css/main.96fc1bd4.css",
-    "main.js": "/SignUpPage/static/js/main.1e267e04.js",
+    "main.js": "/SignUpPage/static/js/main.5b7e235b.js",
     "static/media/girl.png": "/SignUpPage/static/media/girl.7418d89dbe3c2effd1d8.png",
     "index.html": "/SignUpPage/index.html",
     "main.96fc1bd4.css.map": "/SignUpPage/static/css/main.96fc1bd4.css.map",
-    "main.1e267e04.js.map": "/SignUpPage/static/js/main.1e267e04.js.map"
+    "main.5b7e235b.js.map": "/SignUpPage/static/js/main.5b7e235b.js.map"
   },
   "entrypoints": [
     "static/css/main.96fc1bd4.css",
-    "static/js/main.1e267e04.js"
+    "static/js/main.5b7e235b.js"
   ]
 }
